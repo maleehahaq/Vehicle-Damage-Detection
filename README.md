@@ -51,5 +51,5 @@ drive.mount('/content/drive')
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ayeshaakram88/Vehicle-Damage-Detection-Classification.git
-   cd Vehicle-Damage-Detection-Classification
+   git clone https://github.com/maleehahaq/Vehicle-Damage-Detection.git
+   cd Vehicle-Damage-Detection
